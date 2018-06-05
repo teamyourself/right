@@ -1,0 +1,103 @@
+Package: com.duccom01.noname
+Name: noname
+Depends: com.duccom01.supportnoname,com.conradkramer.open,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,rsync,jetslammed,socat,com.duccom01.hookduccom,com.duccom01.locationfaker8910
+Conflicts: vn.gsm.locationfaker8,vn.gsm.xcon,com.n00neimp0rtant.xcon
+Version: 8.5.8
+Architecture: iphoneos-arm
+Description: iOSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+Maintainer: zxczxczxc
+Author: @gmail.com
+Sponsor: repo.ducauto.info
+Section: System
+Filename: ./Debs/noname.deb
+Size: 251192
+MD5sum: e5e9db30ed2c7b41bb7308375265554a
+SHA1: 34ac473bf97237a7f7f45ac71904a597fa66d9f1
+SHA256: 99af74287e4736fc3970bdf034bd91d8b27f1e63c373109e5b0ff9e3668aa3be
+Tag: role::hacker
+
+Package: com.duccom01.hookduccom
+Name: hookduccom
+Depends: mobilesubstrate,com.duccom01.noname
+Version: 5.2
+Architecture: iphoneos-arm
+Description: iOSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+Maintainer: zxczxczxc
+Author: @gmail.com
+Sponsor: repo.ducauto.info
+Section: Tweaks
+Filename: ./Debs/hookduccom.deb
+Size: 242392
+MD5sum: 3b49232c06fe933870f21d4663819b7f
+SHA1: a97bff26d3744c37fd7f77c7e7897561722993e5
+SHA256: c2a2c62414ede012832d6b56effdaf18e49ca6ad9c34ee0715af4ad145918570
+Tag: role::hacker
+
+Package: com.duccom01.locationfaker8910
+Name: LocationFaker(8,9,10)
+Version: 2.0k
+Architecture: iphoneos-arm
+Description: Change your location using a map Cracked
+Maintainer: zxczxczxc
+Author: @gmail.com
+Sponsor: repo.ducauto.info
+Section: Tweaks
+Filename: ./Debs/locationfaker.deb
+Size: 538174
+MD5sum: 1384ae1d840ad3660bfcbb41ed55a33e
+SHA1: 72c6989e26d81ad922079458b9fbbd18575b632a
+SHA256: d6128df970b294dc57d4894bd7a8acbdff4fd34efd8dec2952d6998b949fc742
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: org.thebigboss.locationchangerx
+
+Package: com.duccom01.xcon4
+Name: xcon4
+Depends: mobilesubstrate
+Version: 2.0
+Architecture: iphoneos-arm
+Description: bypass jailbreak for iossssssssssssssssssssssssssss
+Maintainer: zxczxczxc
+Author: @gmail.com
+Sponsor: repo.ducauto.info
+Section: Tweaks
+Filename: ./Debs/xcon4.deb
+Size: 136628 
+MD5sum: 9a10f47c107802877369cf550c978a63
+SHA1: 6fdfaa8a2f61bb62f8ad0d355807aabaf4ef715e
+SHA256: 30eb02fe7c1cb40b6d859213457b887ebf0e2d4dbdd4e0d76e408d66d1597e99
+Tag: role::hacker
+
+Package: com.duccom01.supportnoname
+Name: supportnoname
+Depends: mobilesubstrate,com.duccom01.noname
+Version: 1
+Architecture: iphoneos-arm
+Description: supporttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
+Maintainer: zxczxczxc
+Author: @gmail.com
+Sponsor: repo.ducauto.info
+Section: Tweaks
+Filename: ./Debs/supportnoname.deb
+Size: 1348
+MD5sum: 4a0757d01059a44206556853ba9c8c33
+SHA1: 604568089c482a30c62cca0f08e7b26a351fb599
+SHA256: dd420891c2bf1f5a5e42fe1f124578db0ee4b1c74d384715554c3a8979c4afba
+Tag: role::hacker
+
+Package: com.duccom01.icontool
+Name: Icon Tool
+Depends: mobilesubstrate
+Version: 1.9-5k
+Architecture: iphoneos-arm
+Description: App tools menu from jiggle mode
+Maintainer: zxczxczxc
+Author: @gmail.com
+Sponsor: repo.ducauto.info
+Section: Tweaks
+Filename: ./Debs/icontool.deb
+Size: 384380
+MD5sum: 556ac25a2bc2055d919cfee7a730d91c
+SHA1: 69f95417791f36fd51a2cf36bf7c324fba00aa0e
+SHA256: 7d20d11bba9699b698df1382a11c7515601bffbd78cd04593878f2a9c13718fd
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2)
+Conflicts: com.rpetrich.iconrenamer,vn.gsm.icontool

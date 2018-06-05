@@ -1,0 +1,12 @@
+Origin: right
+Label: right
+Suite: stable
+Version: 8.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: iOSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+MD5Sum:
+	592361f8d4b85d223c29c6b122d085db 3622 Packages
+	948855e5c933d3d1719c2697211fa97b 1446 Packages.bz2
+	29afc6e3418bfa4edd803ca97c0d49b8 1340 Packages.gz
